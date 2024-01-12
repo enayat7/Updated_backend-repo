@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node src/index.js",
     "test": "babel-node test.js",
-    "build":"npm i",
+    "build":"npm i"
   },
   "keywords": [],
   "author": "",
