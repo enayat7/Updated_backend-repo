@@ -4,8 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "test": "babel-node test.js"
+    "dev": "node src/index.js",
+    "test": "babel-node test.js",
+    "build": "npm i"
   },
   "keywords": [],
   "author": "",
